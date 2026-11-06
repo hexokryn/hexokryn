@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="HEXOKRYN — A study in contrast" />
+  <img src="./assets/header.gif" width="100%" alt="HEXOKRYN — A study in contrast" />
 </p>
 
 <p align="center"><sub>LESS NOISE. MORE INTENT.</sub></p>
